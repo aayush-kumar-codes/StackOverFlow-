@@ -9,10 +9,6 @@ Clone of Stack Overflow where I implemented nearly all of its functionalities. M
 
 > Note: Please have a look at the Blog explaining <a href="https://yawan-1.github.io/">What I learned from this Project?</a>
 
-## Images
-
-<img src="/images/animation.gif">
-
 ## Demo
 
 Here is a working live demo : <a href="https://stonkoverflow.herokuapp.com/">Demo</a> <b>(Removed from heroku because usage of so's production LOGO</b>)</b>
